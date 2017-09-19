@@ -1,7 +1,7 @@
 #   莊逸軒(Sam)
 
 *   Birthday : April 11<sup>th</sup> , 1993
-*   Education : 嘉義大學-應用數學系
+*   Education : 嘉義大學-應用數學系
 *   Location: Taipei
 *   E-Mail : mts40110@gmail.com
 *   Mobile : 0976-035266
