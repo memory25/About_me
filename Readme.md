@@ -46,7 +46,7 @@ ___
  - 利用Bootstrap製作響應式網站
  
 #### <a href="https://memory25.github.io/cssimg/" target="_blank">css切圖</a>
- - 使用純css製作圖形
+ - 使用SASS製作圖形
 ___
 
 ### Personality 關於我
